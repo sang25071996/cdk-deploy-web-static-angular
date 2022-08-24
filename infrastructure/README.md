@@ -17,4 +17,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 ## Debug CDK in intelij
 Node parameter: `—require ts-node/register`
 Javascript file: `bin/infrastructure.ts`
-![](/Users/sang/Desktop/AWS/CDK/cdk-angular-static/infrastructure/Screen Shot 2022-08-24 at 16.24.15.png)
+![](./Screen Shot 2022-08-24 at 16.24.15.png)
