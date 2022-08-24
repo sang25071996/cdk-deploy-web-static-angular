@@ -13,3 +13,8 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
+
+## Debug CDK in intelij
+Node parameter: `—require ts-node/register`
+Javascript file: `bin/infrastructure.ts`
+![](/Users/sang/Desktop/AWS/CDK/cdk-angular-static/infrastructure/Screen Shot 2022-08-24 at 16.24.15.png)
